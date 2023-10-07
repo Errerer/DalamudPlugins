@@ -2,8 +2,8 @@
   "Author": "Errer",
   "Name": "PvPAuto",
   "InternalName": "PvPAuto",
-  "AssemblyVersion": "1.0.0.1",
-  "Description": "/pvpauto 打开界面设置",
+  "AssemblyVersion": "4.0.0.1",
+  "Description": "增加底裤,激活全靠PY。",
   "ApplicableVersion": "any",
   "Tags": [
     "PVP"
@@ -12,6 +12,6 @@
   "LoadRequiredState": 0,
   "LoadSync": false,
   "LoadPriority": 0,
-  "Punchline": "PVPauto，省心省力。",
+  "Punchline": "PVP自动化战场",
   "AcceptsFeedback": true
 }
