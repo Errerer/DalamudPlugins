@@ -1,0 +1,21 @@
+[
+  {
+    "Author": "Errer",
+    "Name": "PvPAuto",
+    "Punchline": "PVP自动化战场",
+    "Description": "增加底裤,激活全靠PY。",
+    "Changelog": "fix 6.41CN",
+    "InternalName": "PvPAuto",
+    "AssemblyVersion": "4.0.0.1",
+    "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
+    "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/blob/main/Plugins/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/blob/main/Plugins/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/blob/main/Plugins/latest.zip",
+    "DownloadCount": 1000
+    
+}
+]
