@@ -1,0 +1,17 @@
+{
+  "Author": "Errer",
+  "Name": "PvPAuto",
+  "InternalName": "PvPAuto",
+  "AssemblyVersion": "1.0.0.1",
+  "Description": "/pvpauto 打开界面设置",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "PVP"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "Punchline": "PVPauto，省心省力。",
+  "AcceptsFeedback": true
+}
