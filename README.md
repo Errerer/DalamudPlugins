@@ -11,5 +11,12 @@
 https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/pluginmaster.json
 ```
 
-## PvPAuto插件功能1-武士多斩效果图
-![image](https://github.com/Errerer/DalamudPlugins/blob/main/testgit.gif)
+- 武士多斩效果图1
+ <div align="center">
+<img src="https://github.com/Errerer/DalamudPlugins/blob/main/testgit.gif" width="500" >
+</div>
+
+- 武士多斩效果图2
+ <div align="center">
+<img src="https://github.com/Errerer/DalamudPlugins/blob/main/testgit2.gif" width="500" >
+</div>
