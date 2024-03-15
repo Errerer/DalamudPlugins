@@ -5,7 +5,7 @@
     "Punchline": "PVP自动化战场",
     "Description": "一个简单的绿色插件。",
     "Changelog": "update api9 add nekoverify",
-    "InternalName": "PvPAuto",
+    "InternalName": "PVPAuto",
     "AssemblyVersion": "5.0.0.0",
     "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
     "ApplicableVersion": "any",
