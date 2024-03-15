@@ -1,21 +1,22 @@
 [
   {
     "Author": "Errer",
-    "Name": "PvPAuto",
+    "Name": "PvPAuto2.0",
     "Punchline": "PVP自动化战场",
-    "Description": "增加底裤,激活全靠PY。",
-    "Changelog": "fix 6.41CN",
-    "InternalName": "PvPAuto",
-    "AssemblyVersion": "4.0.0.1",
+    "Description": "一个简单的绿色插件。",
+    "Changelog": "update api9 add nekoverify",
+    "InternalName": "PvPAuto2.0",
+    "AssemblyVersion": "5.0.0.0",
     "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 8,
-    "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/latest.zip",
+    "DalamudApiLevel": 9,
+    "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/pvpauto.rar",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/latest.zip",
-    "DownloadCount": 1000
+    "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/pvpauto.rar",
+    "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/pvpauto.rar",
+    "DownloadCount": 21070
     
 }
+
 ]
