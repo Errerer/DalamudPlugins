@@ -20,3 +20,9 @@ https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/pluginmaster.json
  <div align="center">
 <img src="https://github.com/Errerer/DalamudPlugins/blob/main/testgit2.gif" width="500" >
 </div>
+
+- 修改极限槽UI的lb计时器
+ <div align="center">
+<img src="https://github.com/Errerer/DalamudPlugins/blob/main/LB1.png" width="500" >
+  <img src="https://github.com/Errerer/DalamudPlugins/blob/main/LB2.png" width="500" >
+</div>
