@@ -4,7 +4,7 @@
 ## 仓库插件列表
 | 名称      | 作者      | 版本 | 适配游戏版本 | 备注 |
 |----------|----------|----------|----------|----------|
-| PvPAuto | [Errer](https://github.com/Errerer)  | 5.0.0.0 | 6.5 | fix api9，重构功能，增加hack，LB计时器 |
+| PvPAuto | [Errer](https://github.com/Errerer)  | 5.0.0.2 | 6.5 | fix api9，重构功能，增加hack，LB计时器，增加宏命令开关 |
 
 ## 仓库链接
 ```
