@@ -1,0 +1,21 @@
+{
+  "Author": "Taurenkey (Puni.sh),Errer(国服本地化)",
+  "Name": "Saucy",
+  "InternalName": "Saucy",
+  "AssemblyVersion": "1.3.0.1",
+  "Description": "自动执行某些金蝶小游戏,解除国服限制",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/PunishXIV/Saucy",
+  "Tags": [
+    "gold saucer",
+    "mgp",
+    "automation"
+  ],
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://love.puni.sh/resources/saucy.png",
+  "Punchline": "当为金蝶游戏活动太费时间的时候！启动它！",
+  "AcceptsFeedback": true
+}
