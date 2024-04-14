@@ -17,6 +17,25 @@
     "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/latest.zip",
     "DownloadCount": 21070
     
+},
+   {
+    "Author": "Taurenkey (Puni.sh),Errer(国服本地化)",
+    "Name": "Saucy",
+    "Punchline": "当为金蝶游戏活动太费时间的时候！启动它！",
+    "Description": "自动执行某些金蝶小游戏,解除国服限制",
+    "Changelog": "Saucy 国服.net8",
+    "InternalName": "SaucyX",
+    "AssemblyVersion": "1.3.0.1",
+    "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 9,
+    "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/Saucy/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/Saucy/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/Saucy/latest.zip",
+    "DownloadCount": 75896
+    
 }
 
 ]
