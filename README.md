@@ -7,6 +7,7 @@
 | PvPAuto | [Errer](https://github.com/Errerer)  | 5.0.0.2 | 6.51 | fix api9，重构功能，增加hack，LB计时器，增加宏命令开关 |
 | Sacuy   | Taurenkey (Puni.sh),Errer(国服本地化)  | 1.3.0.2 | 6.51 | 国服本地化,更新.net8 |
 | vfallguy   | veyn,Errer(国服本地化)  |0.0.0.7 | 6.51 | 国服本地化,更新.net8 |
+| Peepingtom改   | veyn,Cindy-Master（改）,Errer(国服本地化)  |1.7.16 | 6.51 | 国服本地化 |
 
 ## 仓库链接
 ```
