@@ -55,6 +55,26 @@
     "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/vfallguy/latest.zip",
     "DownloadCount": 95896
     
+},
+{
+  "Author": "Anna，Cindy-Master（改）,Errer(国服本地化)",
+        "Name": "Peepingtom改",
+        "InternalName": "PeepingTomS",
+        "AssemblyVersion": "1.7.16",
+        "Description": "显示谁正在或者曾经以你为目标 战场可用(嘘)",
+        "ApplicableVersion": "any",
+        "Tags": [],
+        "Punchline": "显示谁正在或者曾经以你为目标 战场可用(嘘)",
+        "DalamudApiLevel": 9,
+        "RepoUrl": "https://github.com/Cindy-Master/DalmudPlugins",
+        "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/PeepingTomSX/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/PeepingTomSX/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/PeepingTomSX/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 9165,
+        "LastUpdated": "0"
 }
+  
 
 ]
