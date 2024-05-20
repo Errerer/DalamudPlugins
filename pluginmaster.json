@@ -80,12 +80,13 @@
     "Name": "FFXIVPVPAFKhelper",
     "Punchline": "AI战场? 需要开启vnavmesh !",
     "Description": "战场中自动跟随队友，模拟真人操作，遇敌规避。",
+    "Changelog": "测试版本0.0.0.2 优化跟随逻辑，优化上下坐骑，优化跟随条件。",
     "Tags": [
       "pvp"
     ],
     "InternalName": "FFXIVPVPAFKhelper",
     "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
-    "DownloadCount": 141,
+    "DownloadCount": 241,
     "LastUpdate": 0,
     "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/FFXIVPVPAFKhelper/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/FFXIVPVPAFKhelper/latest.zip",
