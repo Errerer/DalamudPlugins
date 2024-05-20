@@ -78,7 +78,7 @@
 {
     "Author": "Errer",
     "Name": "FFXIVPVPAFKhelper",
-    "Punchline": "AI战场?",
+    "Punchline": "AI战场? 需要开启vnavmesh !",
     "Description": "战场中自动跟随队友，模拟真人操作，遇敌规避。",
     "Tags": [
       "pvp"
