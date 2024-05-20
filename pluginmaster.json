@@ -74,6 +74,28 @@
         "IsTestingExclusive": false,
         "DownloadCount": 9165,
         "LastUpdated": "0"
+},
+{
+    "Author": "Errer",
+    "Name": "FFXIVPVPAFKhelper",
+    "Punchline": "AI战场?",
+    "Description": "战场中自动跟随队友，模拟真人操作，遇敌规避。",
+    "Tags": [
+      "pvp"
+    ],
+    "InternalName": "FFXIVPVPAFKhelper",
+    "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
+    "DownloadCount": 141,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/FFXIVPVPAFKhelper/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/FFXIVPVPAFKhelper/latest.zip",
+    "AssemblyVersion": "0.0.0.1",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "9",
+    "Changelog": "",
+    "TestingAssemblyVersion": "0.0.0.1",
+    "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/FFXIVPVPAFKhelper/latest.zip",
+    "IconUrl": "https://github.com/Errerer/DalamudPlugins/blob/main/wocgua.png"
 }
   
 
