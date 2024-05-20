@@ -43,7 +43,7 @@
     "Punchline": "拿下！糖豆王！",
     "Description": "自动加入/离开以尝试单独进行，最后阶段显示AOE和路径。",
     "Changelog": "vfallguy 国服.net8",
-    "InternalName": "vfallguy",
+    "InternalName": "vfallguyX",
     "AssemblyVersion": "0.0.0.7",
     "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
     "ApplicableVersion": "any",
