@@ -5,7 +5,7 @@
 | 名称      | 作者      | 版本 | 适配游戏版本 | 备注 |
 |----------|----------|----------|----------|----------|
 | PvPAuto | [Errer](https://github.com/Errerer)  | 5.0.0.2 | 6.51 | fix api9，重构功能，增加hack，LB计时器，增加宏命令开关 |
-| FFXIVPVPAFKhelper（test)| [Errer](https://github.com/Errerer)  | 0.0.0.1 | 6.51 | 战场挂机助手，自动跟随队友，遇敌规避，LB提醒。 |
+| FFXIVPVPAFKhelper| [Errer](https://github.com/Errerer)  | 0.0.0.3 | 6.51 | 战场挂机助手，自动跟随队友，遇敌规避，LB提醒。 |
 | Sacuy   | Taurenkey (Puni.sh),Errer(国服本地化)  | 1.3.0.2 | 6.51 | 国服本地化,更新.net8 |
 | vfallguy   | veyn,Errer(国服本地化)  |0.0.0.7 | 6.51 | 国服本地化,更新.net8 |
 | Peepingtom改   | Anna,Cindy-Master（改）,Errer(国服本地化)  |1.7.16 | 6.51 | 国服本地化 |
@@ -14,7 +14,7 @@
 ```
 https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/pluginmaster.json
 ```
-## FFXIVPVPAFKhelper  战场挂机助手  自动跟随队友AI 遇敌规避 LB充能提醒  战场辅助map (内测完善阶段，群友测试ing）
+## FFXIVPVPAFKhelper  战场挂机助手  自动跟随队友AI 遇敌规避 LB充能提醒  战场辅助map (激活issues/私聊qq）
 
 - 主UI
   <details>
