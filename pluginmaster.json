@@ -85,17 +85,17 @@
     ],
     "InternalName": "FFXIVPVPAFKhelper",
     "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
-    "DownloadCount": 241,
+    "DownloadCount": 596,
     "LastUpdate": 0,
     "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/FFXIVPVPAFKhelper/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/FFXIVPVPAFKhelper/latest.zip",
-    "AssemblyVersion": "0.0.0.2",
+    "AssemblyVersion": "0.0.0.3",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "9",
-    "Changelog": "测试版本0.0.0.2 优化跟随逻辑，优化上下坐骑，优化跟随条件。",
-    "TestingAssemblyVersion": "0.0.0.2",
+    "Changelog": "测试版本0.0.0.3 优化跟随条件，逻辑判断",
+    "TestingAssemblyVersion": "0.0.0.3",
     "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/FFXIVPVPAFKhelper/latest.zip",
-    "IconUrl": "https://github.com/Errerer/DalamudPlugins/blob/main/wocgua.png"
+    "IconUrl": "https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/wocgua.png"
 }
   
 
