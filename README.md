@@ -14,7 +14,7 @@
 ```
 https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/pluginmaster.json
 ```
-## FFXIVPVPAFKhelper  战场挂机助手  自动跟随队友AI 遇敌规避 LB充能提醒  战场辅助map (激活issues/私聊qq）
+## FFXIVPVPAFKhelper  战场挂机助手 （55挂机助手测试中） 自动跟随队友AI 遇敌规避 LB充能提醒  战场辅助map (私聊qq）
 
 - 主UI
   <details>
