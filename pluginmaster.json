@@ -4,9 +4,9 @@
     "Name": "PvPAuto2.0",
     "Punchline": "PVP自动化战场",
     "Description": "一个简单的绿色插件。",
-    "Changelog": "增加宏命令开关，优化斩铁剑控制。",
+    "Changelog": "虚空斩铁剑？x",
     "InternalName": "PVPAuto",
-    "AssemblyVersion": "5.0.0.2",
+    "AssemblyVersion": "5.0.0.3",
     "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
@@ -15,7 +15,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/latest.zip",
-    "DownloadCount": 21070
+    "DownloadCount": 34015
     
 },
 {
