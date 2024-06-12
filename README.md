@@ -4,7 +4,7 @@
 ## 仓库插件列表
 | 名称      | 作者      | 版本 | 适配游戏版本 | 备注 |
 |----------|----------|----------|----------|----------|
-| PvPAuto | [Errer](https://github.com/Errerer)  | 5.0.0.2 | 6.51 | fix api9，重构功能，增加hack，LB计时器，增加宏命令开关 |
+| PvPAuto | [Errer](https://github.com/Errerer)  | 5.0.0.3 | 6.55 | 虚空斩铁剑? x |
 | FFXIVPVPAFKhelper| [Errer](https://github.com/Errerer)  | 0.0.0.3 | 6.51 | 战场挂机助手，自动跟随队友，遇敌规避，LB提醒。 |
 | Sacuy   | Taurenkey (Puni.sh),Errer(国服本地化)  | 1.3.0.2 | 6.51 | 国服本地化,更新.net8 |
 | vfallguy   | veyn,Errer(国服本地化)  |0.0.0.7 | 6.51 | 国服本地化,更新.net8 |
