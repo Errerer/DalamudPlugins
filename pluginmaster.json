@@ -96,6 +96,26 @@
     "TestingAssemblyVersion": "0.0.0.3",
     "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/FFXIVPVPAFKhelper/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/wocgua.png"
+},
+  {
+    "Author": "akira0245,Errer(APIX)",
+    "Name": "EasyZoom",
+    "Punchline": "轻松的变焦距离解锁和焦点控制。 /ezoom to open config panel",
+    "Description": "轻松的变焦距离解锁和焦点控制。 /ezoom to open config panel",
+    "Tags": [
+      "zoom"
+    ],
+    "InternalName": "EasyZoom",
+    "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
+    "DownloadCount": 596,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/EasyZoom/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/EasyZoom/latest.zip",
+    "AssemblyVersion": "2.3.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "10",
+    "Changelog": "先帮akira0245更了hhhh"
+    
 }
   
 
