@@ -4,9 +4,9 @@
     "Name": "PvPAuto2.0",
     "Punchline": "PVP自动化战场",
     "Description": "一个简单的绿色插件。",
-    "Changelog": "虚空斩铁剑？x",
+    "Changelog": "CN6.58更新 暴力遍历敌人 修复虚空斩铁剑bug",
     "InternalName": "PVPAuto",
-    "AssemblyVersion": "5.0.0.3",
+    "AssemblyVersion": "5.0.0.4",
     "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
@@ -15,7 +15,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/latest.zip",
-    "DownloadCount": 34015
+    "DownloadCount": 35115
     
 },
 {
