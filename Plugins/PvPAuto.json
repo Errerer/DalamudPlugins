@@ -1,8 +1,8 @@
 {
   "Author": "Errer",
-  "Name": "PvPAuto2.0",
+  "Name": "PvPAuto",
   "InternalName": "PVPAuto",
-  "AssemblyVersion": "5.0.0.3",
+  "AssemblyVersion": "5.0.0.4",
   "Description": "一个简单的绿色插件",
   "ApplicableVersion": "any",
   "Tags": [
