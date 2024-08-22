@@ -1,6 +1,9 @@
 # DalamudPlugins
 由 **Errer** 个人维护的 Dalamud 插件仓库
 
+## 认证DC 
+https://discord.gg/dWtQGVMS6w
+
 ## APIX插件列表
 | 名称      | 作者      | 版本 | 适配游戏版本 | 备注 |
 |----------|----------|----------|----------|----------|
@@ -20,7 +23,7 @@
 ```
 https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/pluginmaster.json
 ```
-## FFXIVPVPAFKhelper  战场挂机助手 （55挂机助手测试中） 自动跟随队友AI 遇敌规避 LB充能提醒  战场辅助map (私聊qq）
+## FFXIVPVPAFKhelper 7.0全自动55内测中（暂时不开放）
 
 - 主UI
   <details>
