@@ -8,13 +8,12 @@ https://discord.gg/dWtQGVMS6w
 | 名称      | 作者      | 版本 | 适配游戏版本 | 备注 |
 |----------|----------|----------|----------|----------|
 | EasyZoom | akira0245  | 2.3.0.0| 7.0GL| 先帮A佬更新一下|
-
+| FFXIVPVPAFKhelper| [Errer](https://github.com/Errerer)  | 1.0.0.0 | 7.05 | 战场挂机助手，自动跟随队友，遇敌规避，LB提醒。（暂不开放） |
 
 ## API9插件列表
 | 名称      | 作者      | 版本 | 适配游戏版本 | 备注 |
 |----------|----------|----------|----------|----------|
-| PvPAuto | [Errer](https://github.com/Errerer)  | 5.0.0.3 | 6.55 | 虚空斩铁剑? x |
-| FFXIVPVPAFKhelper| [Errer](https://github.com/Errerer)  | 0.0.0.3 | 6.51 | 战场挂机助手，自动跟随队友，遇敌规避，LB提醒。 |
+| PvPAuto | [Errer](https://github.com/Errerer)  | 5.0.0.4 | 6.58 | 虚空斩铁剑? x |
 | Sacuy   | Taurenkey (Puni.sh),Errer(国服本地化)  | 1.3.0.2 | 6.51 | 国服本地化,更新.net8 |
 | vfallguy   | veyn,Errer(国服本地化)  |0.0.0.7 | 6.51 | 国服本地化,更新.net8 |
 | Peepingtom改   | Anna,Cindy-Master（改）,Errer(国服本地化)  |1.7.16 | 6.51 | 国服本地化 |
