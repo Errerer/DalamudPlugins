@@ -2,7 +2,7 @@
 由 **Errer** 个人维护的 Dalamud 插件仓库
 
 ## 认证DC 
-https://discord.gg/dWtQGVMS6w
+https://discord.gg/v5EqEt9vyB
 
 ## APIX插件列表
 | 名称      | 作者      | 版本 | 适配游戏版本 | 备注 |
