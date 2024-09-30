@@ -25,35 +25,16 @@
     "Description": "自动执行某些金蝶小游戏,解除国服限制",
     "Changelog": "Saucy 国服.net8",
     "InternalName": "SaucyX",
-    "AssemblyVersion": "1.3.0.1",
+    "AssemblyVersion": "1.4.0.2",
     "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 9,
+    "DalamudApiLevel": 10,
     "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/Saucy/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/Saucy/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/Saucy/latest.zip",
     "DownloadCount": 75896
-    
-},
-{
-    "Author": "veyn,Errer(国服本地化)",
-    "Name": "vfallguy",
-    "Punchline": "拿下！糖豆王！",
-    "Description": "自动加入/离开以尝试单独进行，最后阶段显示AOE和路径。",
-    "Changelog": "vfallguy 国服.net8",
-    "InternalName": "vfallguyX",
-    "AssemblyVersion": "0.0.0.0",
-    "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 9,
-    "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/vfallguy/latest.zip",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/vfallguy/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/vfallguy/latest.zip",
-    "DownloadCount": 95896
     
 },
 {
