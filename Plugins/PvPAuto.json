@@ -1,14 +1,14 @@
 {
   "Author": "Errer",
-  "Name": "PvPAuto",
+  "Name": "PvPAuto3",
   "InternalName": "PVPAuto",
-  "AssemblyVersion": "5.0.0.4",
-  "Description": "一个简单的绿色插件",
+  "AssemblyVersion": "5.0.0.5",
+  "Description": "一个简单的绿色插件 7.0 part1 基础更新",
   "ApplicableVersion": "any",
   "Tags": [
     "pvp"
   ],
-  "DalamudApiLevel": 9,
+  "DalamudApiLevel": 10,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
