@@ -16,9 +16,9 @@
     "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/latest.zip",
     "DownloadCount": 35115
-    
-},
-{
+
+  },
+  {
     "Author": "Taurenkey (Puni.sh),Errer(国服本地化)",
     "Name": "Saucy",
     "Punchline": "当为金蝶游戏活动太费时间的时候！启动它！",
@@ -35,28 +35,28 @@
     "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/Saucy/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/Saucy/latest.zip",
     "DownloadCount": 75896
-    
-},
-{
-  "Author": "Anna",
-        "Name": "Peepingtom改",
-        "InternalName": "PeepingTomS",
-        "AssemblyVersion": "1.7.16",
-        "Description": "显示谁正在或者曾经以你为目标 战场可用(嘘)",
-        "ApplicableVersion": "any",
-        "Tags": [],
-        "Punchline": "显示谁正在或者曾经以你为目标 战场可用(嘘)",
-        "DalamudApiLevel": 9,
-        "RepoUrl": "https://github.com/Cindy-Master/DalmudPlugins",
-        "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/PeepingTomSX/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/PeepingTomSX/latest.zip",
-        "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/PeepingTomSX/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadCount": 9165,
-        "LastUpdated": "0"
-},
-{
+
+  },
+  {
+    "Author": "Anna",
+    "Name": "Peepingtom改",
+    "InternalName": "PeepingTomS",
+    "AssemblyVersion": "1.7.16",
+    "Description": "显示谁正在或者曾经以你为目标 战场可用(嘘)",
+    "ApplicableVersion": "any",
+    "Tags": [],
+    "Punchline": "显示谁正在或者曾经以你为目标 战场可用(嘘)",
+    "DalamudApiLevel": 9,
+    "RepoUrl": "https://github.com/Cindy-Master/DalmudPlugins",
+    "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/PeepingTomSX/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/PeepingTomSX/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/PeepingTomSX/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadCount": 9165,
+    "LastUpdated": "0"
+  },
+  {
     "Author": "Errer",
     "Name": "FFXIVPVPAFKhelper",
     "Punchline": "AI战场? 需要开启vnavmesh !",
@@ -77,8 +77,8 @@
     "TestingAssemblyVersion": "0.0.0.3",
     "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/FFXIVPVPAFKhelper/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/wocgua.png"
-},
-{
+  },
+  {
     "Author": "akira0245,Errer(APIX)",
     "Name": "EasyZoom",
     "Punchline": "轻松的变焦距离解锁和焦点控制。 /ezoom to open config panel",
@@ -96,8 +96,28 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "10",
     "Changelog": "先帮akira0245更了hhhh"
-    
-}
-  
+
+  },
+  {
+    "Author": "Fragile,Errer(维护）",
+    "Name": "CharaCradThief",
+    "Punchline": "铭牌小偷",
+    "Description": "就偷就偷 好看的就偷！",
+    "Changelog": "铭牌小偷",
+    "InternalName": "CharaCradThief",
+    "AssemblyVersion": "0.0.0.1",
+    "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 10,
+    "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/CharaCradThief/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/CharaCradThief/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/CharaCradThief/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/Plugins/CharaCradThief/cct.png",
+    "DownloadCount": 0
+
+  }
+
 
 ]
