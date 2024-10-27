@@ -4,9 +4,9 @@
     "Name": "PvPAuto",
     "Punchline": "PVP自动化战场",
     "Description": "一个简单的绿色插件。",
-    "Changelog": "CN6.58更新 暴力遍历敌人 修复虚空斩铁剑bug",
+    "Changelog": "7.0 part2更新 暴力斩手感有问题dc联系 ",
     "InternalName": "PVPAuto",
-    "AssemblyVersion": "5.0.0.5",
+    "AssemblyVersion": "5.1.0.0",
     "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
@@ -15,7 +15,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/latest.zip",
-    "DownloadCount": 35115
+    "DownloadCount": 40966
 
   },
   {
@@ -36,25 +36,6 @@
     "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/Saucy/latest.zip",
     "DownloadCount": 75896
 
-  },
-  {
-    "Author": "Anna",
-    "Name": "Peepingtom改",
-    "InternalName": "PeepingTomS",
-    "AssemblyVersion": "1.7.16",
-    "Description": "显示谁正在或者曾经以你为目标 战场可用(嘘)",
-    "ApplicableVersion": "any",
-    "Tags": [],
-    "Punchline": "显示谁正在或者曾经以你为目标 战场可用(嘘)",
-    "DalamudApiLevel": 9,
-    "RepoUrl": "https://github.com/Cindy-Master/DalmudPlugins",
-    "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/PeepingTomSX/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/PeepingTomSX/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/PeepingTomSX/latest.zip",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadCount": 9165,
-    "LastUpdated": "0"
   },
   {
     "Author": "Errer",
@@ -115,7 +96,7 @@
     "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/CharaCradThief/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/CharaCradThief/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/Plugins/CharaCradThief/cct.png",
-    "DownloadCount": 8602
+    "DownloadCount": 14006
 
   }
 

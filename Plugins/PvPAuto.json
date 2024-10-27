@@ -2,8 +2,8 @@
   "Author": "Errer",
   "Name": "PvPAuto3",
   "InternalName": "PVPAuto",
-  "AssemblyVersion": "5.0.0.5",
-  "Description": "一个简单的绿色插件 7.0 part1 基础更新",
+  "AssemblyVersion": "5.1.0.0",
+  "Description": "一个简单的绿色插件 7.0 part2 ",
   "ApplicableVersion": "any",
   "Tags": [
     "pvp"
