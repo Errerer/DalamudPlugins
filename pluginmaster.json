@@ -84,9 +84,9 @@
     "Name": "CharaCradThief",
     "Punchline": "铭牌小偷",
     "Description": "就偷就偷 好看的就偷！",
-    "Changelog": "铭牌小偷",
+    "Changelog": "铭牌小偷2.0支持偷取和导入",
     "InternalName": "CharaCradThief",
-    "AssemblyVersion": "0.0.0.1",
+    "AssemblyVersion": "2.0.0.0",
     "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
@@ -96,7 +96,7 @@
     "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/CharaCradThief/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/CharaCradThief/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/Plugins/CharaCradThief/cct.png",
-    "DownloadCount": 14006
+    "DownloadCount": 56018
 
   }
 
