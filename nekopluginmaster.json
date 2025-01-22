@@ -1,0 +1,44 @@
+[
+  {
+    "Author": "moewcorp",
+    "Name": "NekoHackBox",
+    "Punchline": "猫猫盒子",
+    "Description": "ae3分离的hackbox",
+    "Changelog": "猫猫盒子7.05CN 3.0.0.0 更新详见DC",
+    "InternalName": "NekoHackBox",
+    "AssemblyVersion": "3.0.0.0",
+    "RepoUrl": "https://gitea.com/Errer/NekohackAuth",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 10,
+    "DownloadLinkInstall": "https://gitea.com/Errer/NekohackAuth/raw/branch/main/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://gitea.com/Errer/NekohackAuth/raw/branch/main/latest.zip",
+    "DownloadLinkUpdate": "https://gitea.com/Errer/NekohackAuth/raw/branch/main/latest.zip",
+    "DownloadCount": 91547,
+    "IconUrl": "https://gitea.com/Errer/NekohackAuth/raw/branch/main/nekohackbox.png"
+    
+}
+,
+{
+    "Author": "moewcorp",
+    "Name": "NekoHackBox(API11)",
+    "Punchline": "猫猫盒子",
+    "Description": "ae3分离的hackbox",
+    "Changelog": "猫猫盒子7.15GL 1.2.0.3 更新详见DC",
+    "InternalName": "NekoHackBox",
+    "AssemblyVersion": "1.2.0.3",
+    "RepoUrl": "https://gitea.com/Errer/NekohackAuth",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 11,
+    "DownloadLinkInstall": "https://gitea.com/Errer/NekohackAuth/raw/branch/main/GL/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://gitea.com/Errer/NekohackAuth/raw/branch/main/GL/latest.zip",
+    "DownloadLinkUpdate": "https://gitea.com/Errer/NekohackAuth/raw/branch/main/GL/latest.zip",
+    "DownloadCount": 81070,
+    "IconUrl": "https://gitea.com/Errer/NekohackAuth/raw/branch/main/nekohackbox.png"
+    
+}
+
+]
