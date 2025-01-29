@@ -11,7 +11,7 @@ https://discord.gg/v5EqEt9vyB
 | CharaCradThief| Fragile,Errer(维护） | 0.0.01| 7.0| 铭牌小偷|
 | Sacuy   | Taurenkey (Puni.sh),Errer(国服本地化)  | ???? | 7.0 | 国服本地化,更新.net8 |
 | EasyZoom | akira0245  | 2.3.0.0| 7.0GL| 先帮A佬更新一下|
-| FFXIVPVPAFKhelper| [Errer](https://github.com/Errerer)  | 1.0.0.0 | 7.05 | 战场挂机助手，自动跟随队友，遇敌规避，LB提醒。（暂不开放） |
+| CrystallineConflictAutoHelper| [Errer](https://github.com/Errerer)  | 0.0.0.1 | 7.05 | 水晶冲突自动助手，内测阶段 |
 
 
 ## API9插件列表
