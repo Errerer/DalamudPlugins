@@ -39,25 +39,26 @@
   },
   {
     "Author": "Errer",
-    "Name": "FFXIVPVPAFKhelper",
-    "Punchline": "AI战场? 需要开启vnavmesh !",
-    "Description": "战场中自动跟随队友，模拟真人操作，遇敌规避。",
+    "Name": "CrystallineConflictAutoHelper",
+    "Punchline": "水晶冲突对战助手",
+    "Description": "水晶冲突对战助手,需要开启vnavmesh,输出请使用AE或者RSR",
     "Tags": [
-      "pvp"
+      "CrystallineConflict",
+      "AutoHelper"
     ],
-    "InternalName": "FFXIVPVPAFKhelper",
+    "InternalName": "CrystallineConflictAutoHelper",
     "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
-    "DownloadCount": 596,
+    "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/FFXIVPVPAFKhelper/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/FFXIVPVPAFKhelper/latest.zip",
-    "AssemblyVersion": "0.0.0.3",
+    "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/CrystallineConflictAutoHelper/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/CrystallineConflictAutoHelper/latest.zip",
+    "AssemblyVersion": "0.0.0.1",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": "9",
-    "Changelog": "测试版本0.0.0.3 优化跟随条件，逻辑判断",
-    "TestingAssemblyVersion": "0.0.0.3",
-    "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/FFXIVPVPAFKhelper/latest.zip",
-    "IconUrl": "https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/wocgua.png"
+    "DalamudApiLevel": "10",
+    "Changelog": "测试版本0.0.0.1",
+    "TestingAssemblyVersion": "0.0.0.1",
+    "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/CrystallineConflictAutoHelper/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/ccah.png"
   },
   {
     "Author": "akira0245,Errer(APIX)",
