@@ -4,7 +4,7 @@
 ## 认证DC 
 https://discord.gg/v5EqEt9vyB
 
-## APIX插件列表
+## API10插件列表
 | 名称      | 作者      | 版本 | 适配游戏版本 | 备注 |
 |----------|----------|----------|----------|----------|
 | PvPAuto | [Errer](https://github.com/Errerer)  | 5.0.0.5 | 7.0 | 重构Part1|
@@ -14,10 +14,6 @@ https://discord.gg/v5EqEt9vyB
 | CrystallineConflictAutoHelper| [Errer](https://github.com/Errerer)  | 0.0.0.1 | 7.05 | 水晶冲突自动助手，内测阶段 |
 
 
-## API9插件列表
-| 名称      | 作者      | 版本 | 适配游戏版本 | 备注 |
-|----------|----------|----------|----------|----------|
-| Peepingtom改   | Anna,Cindy-Master（改）,Errer(国服本地化)  |1.7.16 | 6.51 | 国服本地化 |
 
 ## 仓库链接
 ```
