@@ -23,50 +23,6 @@ https://discord.gg/v5EqEt9vyB
 ```
 https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/pluginmaster.json
 ```
-## FFXIVPVPAFKhelper 7.0全自动55内测中（暂时不开放）
-
-- 主UI
-  <details>
-    <summary>点击展开查看图像</summary>
-    <div align="center">
-      <img src="https://github.com/Errerer/DalamudPlugins/blob/main/PVPHELP1.png" width="500">
-    </div>
-  </details>
-
-- LB系统提醒UI
-  <details>
-    <summary>点击展开查看图像</summary>
-    <div align="center">
-      <img src="https://github.com/Errerer/DalamudPlugins/blob/main/pvphelp2.png" width="500">
-    </div>
-  </details>
-
-## PVPAuto2.0武士多斩效果图1、武士多斩效果图2 和 修改极限槽UI的lb计时器
-  
-- 武士多斩效果图1
-  <details>
-    <summary>点击展开查看图像</summary>
-    <div align="center">
-      <img src="https://github.com/Errerer/DalamudPlugins/blob/main/testgit.gif" width="500">
-    </div>
-  </details>
-
-- 武士多斩效果图2
-  <details>
-    <summary>点击展开查看图像</summary>
-    <div align="center">
-      <img src="https://github.com/Errerer/DalamudPlugins/blob/main/testgit2.gif" width="500">
-    </div>
-  </details>
-
-- 修改极限槽UI的lb计时器
-  <details>
-    <summary>点击展开查看图像</summary>
-    <div align="center">
-      <img src="https://github.com/Errerer/DalamudPlugins/blob/main/LB1.png" width="500">
-      <img src="https://github.com/Errerer/DalamudPlugins/blob/main/LB2.png" width="500">
-    </div>
-  </details>
 
 
 
