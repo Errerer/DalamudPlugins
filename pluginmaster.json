@@ -38,29 +38,6 @@
 
   },
   {
-    "Author": "Errer",
-    "Name": "CrystallineConflictAutoHelper",
-    "Punchline": "水晶冲突对战助手",
-    "Description": "水晶冲突对战助手,需要开启vnavmesh,输出请使用AE或者RSR",
-    "Tags": [
-      "CrystallineConflict",
-      "AutoHelper"
-    ],
-    "InternalName": "CrystallineConflictAutoHelper",
-    "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
-    "DownloadCount": 0,
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/CrystallineConflictAutoHelper/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/CrystallineConflictAutoHelper/latest.zip",
-    "AssemblyVersion": "0.0.0.1",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "10",
-    "Changelog": "测试版本0.0.0.1",
-    "TestingAssemblyVersion": "0.0.0.1",
-    "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/CrystallineConflictAutoHelper/latest.zip",
-    "IconUrl": "https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/ccah.png"
-  },
-  {
     "Author": "akira0245,Errer(APIX)",
     "Name": "EasyZoom",
     "Punchline": "轻松的变焦距离解锁和焦点控制。 /ezoom to open config panel",
