@@ -19,5 +19,10 @@ https://discord.gg/v5EqEt9vyB
 https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/pluginmaster.json
 ```
 
+### 国内直连 （感谢那年雪落提供的反代）
+```
+https://gh.shiro.la/https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/pluginmaster.json
+```
+
 
 
