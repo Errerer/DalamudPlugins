@@ -64,7 +64,7 @@
     "Description": "就偷就偷 好看的就偷！",
     "Changelog": "铭牌小偷7.1cn",
     "InternalName": "CharaCradThief",
-    "AssemblyVersion": "3.0.0.0",
+    "AssemblyVersion": "3.0.0.1",
     "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 11,
