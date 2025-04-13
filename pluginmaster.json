@@ -76,7 +76,26 @@
     "IconUrl": "https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/Plugins/CharaCradThief/cct.png",
     "DownloadCount": 78112
 
-  }
+  },
+  {
+    "Author": "Fragile,Errer(维护）",
+    "Name": "CharaCradThief(API12)",
+    "Punchline": "铭牌小偷",
+    "Description": "就偷就偷 好看的就偷！",
+    "Changelog": "铭牌小偷7.2GL",
+    "InternalName": "CharaCradThief",
+    "AssemblyVersion": "3.0.0.1",
+    "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 12,
+    "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/CharaCradThiefgl/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/CharaCradThiefgl/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/CharaCradThiefgl/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/Plugins/CharaCradThief/cct.png",
+    "DownloadCount": 103056
 
+  }
 
 ]
