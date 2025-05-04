@@ -1,0 +1,62 @@
+[
+    
+    {
+        "Author": "decorwdyun",
+        "Name": "FuckDalamudCN",
+        "InternalName": "FuckDalamudCN",
+        "Punchline": "解除国服 Dalamud 中不合理的插件封锁、隐私数据上传，还额外提供 Github 第三方库加载和下载代理/加速服务（请在配置界面手动开启）",
+        "Description": "如果你的网络环境不能稳定的访问Github，那么可以试试本插件提供的 Github 加速服务，我们提供一系列优化以加速插件管理器的加载/下载",
+        "Tags": [
+            "unban",
+            "FuckDalamudCN",
+            "插件封锁",
+            "dontban",
+            "Github加速",
+            "加速"
+        ],
+        "Changelog": "v1.0.0.4: 再次优化卫月 Github 第三方库加速行为，打开插件管理器应该更快了",
+        "RepoUrl": "https://github.com/decorwdyun/FuckDalamudCN",
+        "LastUpdate": "1741942995",
+        "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/blob/cntest/test/unban/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/blob/cntest/test/unban/latest.zip",
+        "AssemblyVersion": "1.0.0.5",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "11",
+        "IconUrl": "https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/FuckDalamudCN/icon.png"
+    },
+    {
+        "Author": "The Combat Reborn Team",
+        "Name": "Rotation Solver Reborn",
+        "InternalName": "RotationSolver",
+        "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 11,
+        "TestingDalamudApiLevel": 11,
+        "Tags": [
+          "combat",
+          "rotation",
+          "auto",
+          "solver",
+          "pve",
+          "pvp"
+        ],
+        "CategoryTags": [
+          "jobs"
+        ],
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "IsTestingExclusive": false,
+        "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
+        "Punchline": "Analyses combat information every frame and finds the best action.",
+        "AcceptsFeedback": true,
+        "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/blob/cntest/test/unban/latest.zip",
+        "AssemblyVersion": "7.1.8.1",
+        "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/blob/cntest/test/unban/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/blob/cntest/test/unban/latest.zip",
+        "TestingAssemblyVersion": "7.1.8.1",
+        "Changelog": "## What's Changed\r\n* Improve targeting logic for Bozja and Zadnor content by @LTS-FFXIV in https://github.com/FFXIV-CombatReborn/RotationSolverReborn/pull/700\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/RotationSolverReborn/compare/7.2.1.13...7.2.1.14",
+        "DownloadCount": 932071
+      }
+]
