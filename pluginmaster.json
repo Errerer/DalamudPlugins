@@ -4,57 +4,18 @@
     "Name": "pvpauto",
     "Punchline": "PVP自动化战场",
     "Description": "一个简单的绿色插件。",
-    "Changelog": "7.25CN 别再开盒我了(举白旗）  ",
+    "Changelog": "7.31CN 别再开盒我了(举白旗）  ",
     "InternalName": "pvpauto",
-    "AssemblyVersion": "5.0.0.1",
+    "AssemblyVersion": "6.0.0.0",
     "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 12,
+    "DalamudApiLevel": 13,
     "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/latest.zip",
-    "DownloadCount": 217193
-
-  },
-  {
-    "Author": "Taurenkey (Puni.sh),Errer(国服本地化)",
-    "Name": "Saucy",
-    "Punchline": "当为金蝶游戏活动太费时间的时候！启动它！",
-    "Description": "自动执行某些金蝶小游戏,解除国服限制",
-    "Changelog": "Saucy 国服.net8",
-    "InternalName": "SaucyX",
-    "AssemblyVersion": "1.4.0.2",
-    "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 10,
-    "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/Saucy/latest.zip",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/Saucy/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/Saucy/latest.zip",
-    "DownloadCount": 75896
-
-  },
-  {
-    "Author": "akira0245,Errer(APIX)",
-    "Name": "EasyZoom",
-    "Punchline": "轻松的变焦距离解锁和焦点控制。 /ezoom to open config panel",
-    "Description": "轻松的变焦距离解锁和焦点控制。 /ezoom to open config panel",
-    "Tags": [
-      "zoom"
-    ],
-    "InternalName": "EasyZoom",
-    "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
-    "DownloadCount": 596,
-    "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/EasyZoom/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/EasyZoom/latest.zip",
-    "AssemblyVersion": "2.3.0.0",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "10",
-    "Changelog": "先帮akira0245更了hhhh"
+    "DownloadCount": 316193
 
   },
   {
@@ -62,39 +23,19 @@
     "Name": "CharaCradThief",
     "Punchline": "铭牌小偷",
     "Description": "就偷就偷 好看的就偷！",
-    "Changelog": "铭牌小偷7.2CN",
+    "Changelog": "铭牌小偷7.31CN",
     "InternalName": "CharaCradThief",
     "AssemblyVersion": "4.0.0.0",
     "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 12,
+    "DalamudApiLevel": 13,
     "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/CharaCradThief/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/CharaCradThief/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/CharaCradThief/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/Plugins/CharaCradThief/cct.png",
-    "DownloadCount": 127112
-
-  },
-  {
-    "Author": "Fragile,Errer(维护）",
-    "Name": "CharaCradThief(API12)",
-    "Punchline": "铭牌小偷",
-    "Description": "就偷就偷 好看的就偷！",
-    "Changelog": "铭牌小偷7.2GL",
-    "InternalName": "CharaCradThief",
-    "AssemblyVersion": "3.0.0.1",
-    "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 12,
-    "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/CharaCradThiefgl/latest.zip",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/CharaCradThiefgl/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/CharaCradThiefgl/latest.zip",
-    "IconUrl": "https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/Plugins/CharaCradThief/cct.png",
-    "DownloadCount": 103056
+    "DownloadCount": 297112
 
   }
 
