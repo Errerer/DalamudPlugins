@@ -37,6 +37,21 @@
     "IconUrl": "https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/Plugins/CharaCradThief/cct.png",
     "DownloadCount": 297112
 
-  }
+  },
+   {
+        "Name": "ARealmRecorded",
+        "InternalName": "ARealmRecorded",
+        "AssemblyVersion": "1.0.1.5",
+        "Author": "UnknownX",
+        "Punchline": "A Realm Recorded 特供版本 专门为pvp录制用",
+        "Description": "使用 /record 指令打开配置界面\n如显示相关指令未解锁, 请去摩杜纳第七天堂找异国的诗人完成任务「回顾英雄诗篇」",
+        "ApplicableVersion": "any",
+        "AcceptsFeedback": true,
+        "DalamudApiLevel": 13,
+        "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
+        "IconUrl": "",
+        "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/ARRX/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/ARRX/latest.zip"
+    }
 
 ]
