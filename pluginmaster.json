@@ -4,9 +4,9 @@
     "Name": "pvpauto",
     "Punchline": "PVP自动化战场",
     "Description": "一个简单的绿色插件。",
-    "Changelog": "7.31CN 别再开盒我了(举白旗）  ",
+    "Changelog": "严重错误，修复国际服账号认证无效的问题  ",
     "InternalName": "pvpauto",
-    "AssemblyVersion": "6.0.0.0",
+    "AssemblyVersion": "6.0.0.1",
     "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
@@ -15,7 +15,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/latest.zip",
-    "DownloadCount": 316193
+    "DownloadCount": 340393
 
   },
   {
