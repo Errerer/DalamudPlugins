@@ -52,6 +52,26 @@
         "IconUrl": "",
         "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/ARRX/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/ARRX/latest.zip"
-    }
+    },
+  {
+    "Author": "moewcorp",
+    "Name": "NekoHackBox",
+    "Punchline": "猫猫盒子",
+    "Description": "AE3分离的hackbox",
+    "Changelog": "",
+    "InternalName": "NekoHackBox",
+    "AssemblyVersion": "4.0.0.7",
+    "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/neko/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/neko/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/neko/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/Plugins/neko/nekohackbox.png",
+    "DownloadCount": 347112
+
+  }
 
 ]
