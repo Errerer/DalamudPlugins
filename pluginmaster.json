@@ -4,9 +4,9 @@
     "Name": "pvpauto",
     "Punchline": "PVP自动化战场",
     "Description": "一个简单的绿色插件。",
-    "Changelog": "7.4更新，重构使用猫箱依赖。",
+    "Changelog": "7.4更新，修复遍历导致技能失效问题。",
     "InternalName": "pvpauto",
-    "AssemblyVersion": "7.0.0.1",
+    "AssemblyVersion": "7.1.0.0",
     "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
@@ -15,7 +15,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/latest.zip",
-    "DownloadCount": 530396
+    "DownloadCount": 537300
 
   },
   {
