@@ -6,7 +6,7 @@
     "Description": "一个简单的绿色插件。",
     "Changelog": "大修，同步器增强",
     "InternalName": "pvpauto",
-    "AssemblyVersion": "7.1.0.1",
+    "AssemblyVersion": "7.1.0.2",
     "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
@@ -15,7 +15,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/latest.zip",
-    "DownloadCount": 537300
+    "DownloadCount": 573110
 
   },
   {
@@ -72,26 +72,6 @@
     "IconUrl": "https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/Plugins/neko/nekohackbox.png",
     "DownloadCount": 357112
 
-  },
-   {
-    "Author": "NightmareXIV,Errer(本地特化)",
-    "Name": "SplatoonR",
-    "Punchline": "国服画家 7.4CN 首周特供，",
-    "Description": "国服特供SPLX 7.4CN ",
-    "InternalName": "SplatoonR",
-    "AssemblyVersion": "3.9.0.0",
-    "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
-    "IconUrl": "https://love.puni.sh/resources/splatoon.png",
-    "ImageUrls": [],
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/splr/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/splr/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/splr/latest.zip",
-    "DownloadCount": 1251154,
-    "LastUpdated": "0"
   }
 
 ]
