@@ -25,7 +25,7 @@
     "Description": "就偷就偷 好看的就偷！",
     "Changelog": "修复幻化炸游戏的问题",
     "InternalName": "CharaCradThief",
-    "AssemblyVersion": "4.0.0.7",
+    "AssemblyVersion": "4.0.1.0",
     "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
