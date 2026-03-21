@@ -60,7 +60,7 @@
     "Description": "AE3分离的hackbox",
     "Changelog": "",
     "InternalName": "NekoHackBox",
-    "AssemblyVersion": "5.0.0.1",
+    "AssemblyVersion": "5.0.0.3",
     "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
