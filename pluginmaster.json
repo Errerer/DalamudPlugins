@@ -6,7 +6,7 @@
     "Description": "一个简单的绿色插件。",
     "Changelog": "测试支持KR/JP服务器?",
     "InternalName": "pvpauto",
-    "AssemblyVersion": "7.1.0.4",
+    "AssemblyVersion": "7.1.0.5",
     "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
