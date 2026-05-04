@@ -60,17 +60,17 @@
     "Description": "AE3分离的hackbox",
     "Changelog": "",
     "InternalName": "NekoHackBox",
-    "AssemblyVersion": "5.0.0.3",
+    "AssemblyVersion": "5.0.0.5",
     "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/neko/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/neko/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/neko/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/Plugins/neko/nekohackbox.png",
-    "DownloadCount": 357112
+    "DownloadCount": 451212
 
   }
 
