@@ -6,7 +6,7 @@
     "Description": "一个简单的绿色插件。",
     "Changelog": "7.5初版更新 fix",
     "InternalName": "pvpauto",
-    "AssemblyVersion": "7.1.0.8",
+    "AssemblyVersion": "7.1.0.9",
     "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
