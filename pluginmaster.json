@@ -72,6 +72,21 @@
     "IconUrl": "https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/Plugins/neko/nekohackbox.png",
     "DownloadCount": 451212
 
+  },
+  {
+    "Name": "vnavmesh",
+    "InternalName": "vnavmesh",
+    "AssemblyVersion": "0.5.9.0",
+    "Author": "veyn, AtmoOmen",
+    "Punchline": "行遍千里",
+    "Description": "不仅会自动寻路, 还能自动避障 魔改版本 正常勿用",
+    "ApplicableVersion": "any",
+    "AcceptsFeedback": true,
+    "DalamudApiLevel": 15,
+    "RepoUrl": "https://gh.atmoomen.top/https://github.com/AtmoOmen/ffxiv_navmesh-cn",
+    "IconUrl": "https://gh.atmoomen.top/https://raw.githubusercontent.com/AtmoOmen/ffxiv_navmesh-cn/CN/Resources/icon2.png",
+    "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/vna/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/vna/latest.zip"
   }
 
 ]
