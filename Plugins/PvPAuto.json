@@ -1,18 +1,18 @@
 {
   "Author": "Errer",
-  "Name": "PvPAuto3",
-  "InternalName": "PVPAuto",
-  "AssemblyVersion": "5.1.0.0",
-  "Description": "一个简单的绿色插件 7.0 part2 ",
+  "Name": "PVPAuto",
+  "InternalName": "pvpauto",
+  "AssemblyVersion": "7.1.1.1",
+  "Description": "",
   "ApplicableVersion": "any",
   "Tags": [
     "pvp"
   ],
-  "DalamudApiLevel": 10,
+  "DalamudApiLevel": 15,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "自动化PVP /pvpauto 打开插件",
+  "Punchline": "",
   "AcceptsFeedback": true
 }
