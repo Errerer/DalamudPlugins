@@ -1,0 +1,92 @@
+[
+  {
+    "Author": "Errer",
+    "Name": "FFXIVPVPAuto",
+    "Punchline": "PVP自动化战场",
+    "Description": "一个简单的绿色插件。",
+    "Changelog": "修复验证系统bug",
+    "InternalName": "FFXIVPVPAuto",
+    "AssemblyVersion": "1.0.0.1",
+    "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/latest.zip",
+    "DownloadCount": 824107
+
+  },
+  {
+    "Author": "Fragile,Errer(维护）",
+    "Name": "CharaCradThief",
+    "Punchline": "铭牌小偷",
+    "Description": "就偷就偷 好看的就偷！",
+    "Changelog": "API15 全新功能",
+    "InternalName": "CharaCradThief",
+    "AssemblyVersion": "4.0.1.10",
+    "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/CharaCradThief/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/CharaCradThief/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/CharaCradThief/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/Plugins/CharaCradThief/cct.png",
+    "DownloadCount": 490111
+
+  },
+   {
+        "Name": "ARealmRecorded",
+        "InternalName": "ARealmRecorded",
+        "AssemblyVersion": "1.0.2.1",
+        "Author": "UnknownX",
+        "Punchline": "A Realm Recorded 特供版本 专门为pvp录制用",
+        "Description": "使用 /record 指令打开配置界面\n如显示相关指令未解锁, 请去摩杜纳第七天堂找异国的诗人完成任务「回顾英雄诗篇」",
+        "ApplicableVersion": "any",
+        "AcceptsFeedback": true,
+        "DalamudApiLevel": 15,
+        "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
+        "IconUrl": "",
+        "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/ARRX/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/ARRX/latest.zip"
+    },
+  {
+    "Author": "moewcorp",
+    "Name": "NekoHackBox",
+    "Punchline": "猫猫盒子",
+    "Description": "AE3分离的hackbox",
+    "Changelog": "",
+    "InternalName": "NekoHackBox",
+    "AssemblyVersion": "5.0.1.0",
+    "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/neko/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/neko/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/neko/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/Plugins/neko/nekohackbox.png",
+    "DownloadCount": 451212
+
+  },
+  {
+    "Name": "vnavmesh",
+    "InternalName": "vnavmesh",
+    "AssemblyVersion": "0.5.9.0",
+    "Author": "veyn, AtmoOmen",
+    "Punchline": "行遍千里",
+    "Description": "不仅会自动寻路, 还能自动避障 魔改版本 正常勿用",
+    "ApplicableVersion": "any",
+    "AcceptsFeedback": true,
+    "DalamudApiLevel": 15,
+    "RepoUrl": "https://gh.atmoomen.top/https://github.com/AtmoOmen/ffxiv_navmesh-cn",
+    "IconUrl": "https://gh.atmoomen.top/https://raw.githubusercontent.com/AtmoOmen/ffxiv_navmesh-cn/CN/Resources/icon2.png",
+    "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/vna/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/vna/latest.zip"
+  }
+
+]

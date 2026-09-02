@@ -1,0 +1,20 @@
+{
+  "Author": "akira0245,Errer(APIX)",
+  "Name": "EasyZoom",
+  "InternalName": "EasyZoom",
+  "AssemblyVersion": "2.3.0.0",
+  "Description": "轻松的变焦距离解锁和焦点控制。 /ezoom to open config panel",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/akira0245/EasyZoom",
+  "Tags": [
+    "zoom",
+    "akira"
+  ],
+  "DalamudApiLevel": 10,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "轻松的变焦距离解锁和焦点控制。akira0245佬的先帮他更了.jpg   /ezoom to open config panel",
+  "AcceptsFeedback": true
+}
