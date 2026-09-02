@@ -1,12 +1,12 @@
 [
   {
     "Author": "Errer",
-    "Name": "pvpauto",
+    "Name": "FFXIVPVPAuto",
     "Punchline": "PVP自动化战场",
     "Description": "一个简单的绿色插件。",
-    "Changelog": "7.51fix 修复敌我判断逻辑",
-    "InternalName": "pvpauto",
-    "AssemblyVersion": "7.1.1.1",
+    "Changelog": "公测第一版",
+    "InternalName": "FFXIVPVPAuto",
+    "AssemblyVersion": "1.0.0.0",
     "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
