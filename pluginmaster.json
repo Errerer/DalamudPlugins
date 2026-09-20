@@ -6,7 +6,7 @@
     "Description": "一个简单的绿色插件。",
     "Changelog": "",
     "InternalName": "FFXIVPVPAuto",
-    "AssemblyVersion": "1.0.0.5",
+    "AssemblyVersion": "1.0.0.7",
     "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -16,24 +16,6 @@
     "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/latest.zip",
     "DownloadCount": 824107
-
-  },
-  {
-    "Author": "Errer",
-    "Name": "FFXIVPVPAuto",
-    "Punchline": "PVP自动化战场",
-    "Description": "一个简单的绿色插件。",
-    "Changelog": "过渡版本：本插件已更名为 FFXIVPVPAuto，请安装新版本并卸载本插件。配置已自动同步，无需重新设置。",
-    "InternalName": "pvpauto",
-    "AssemblyVersion": "7.1.1.2",
-    "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/pvpauto/latest.zip",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/pvpauto/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/pvpauto/latest.zip"
 
   },
   {
