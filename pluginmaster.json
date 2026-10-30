@@ -87,6 +87,32 @@
     "IconUrl": "https://gh.atmoomen.top/https://raw.githubusercontent.com/AtmoOmen/ffxiv_navmesh-cn/CN/Resources/icon2.png",
     "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/vna/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/vna/latest.zip"
+  },
+  {
+    "Author": "Errer",
+    "Name": "魔光键影炫舞模式",
+    "InternalName": "KeyboundDanceMode",
+    "AssemblyVersion": "1.0.3.0",
+    "Punchline": "看到方向，按键完成魔光键影词条。",
+    "Description": "将魔光键影的头顶词条替换为 ↑ ↓ ← → 或空格。进入玩法后直接按键，无需聚焦输入框；五键均衡随机，Boss 等持续目标每次成功后换键。每次按下处理一个匹配目标，优先屏障和读条目标。使用前请关闭 DR 的自动游玩魔光键影与拼音输入模块。设置命令：/keybound。",
+    "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": [
+      "魔光键影",
+      "金碟",
+      "方向键"
+    ],
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "CanUnloadAsync": false,
+    "Changelog": "1.0.3：五键均衡随机，空格同等参与；Boss 等持续目标每次成功后换键。头顶只显示按键，无需聚焦副本输入框。",
+    "DownloadLinkInstall": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/KeyboundDanceMode/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/KeyboundDanceMode/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Errerer/DalamudPlugins/raw/main/Plugins/KeyboundDanceMode/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false
   }
 
 ]
