@@ -26,7 +26,7 @@
     "Description": "就偷就偷 好看的就偷！",
     "Changelog": "API15 全新功能",
     "InternalName": "CharaCradThief",
-    "AssemblyVersion": "4.0.1.10",
+    "AssemblyVersion": "4.0.1.11",
     "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -57,11 +57,11 @@
   {
     "Author": "moewcorp",
     "Name": "NekoHackBox",
-    "Punchline": "猫猫盒子",
-    "Description": "AE3分离的hackbox",
+    "Punchline": "猫猫盒子 Nekohackbox",
+    "Description": "猫猫盒子 Nekohackbox",
     "Changelog": "",
     "InternalName": "NekoHackBox",
-    "AssemblyVersion": "5.0.1.0",
+    "AssemblyVersion": "6.0.0.0",
     "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -117,3 +117,5 @@
   }
 
 ]
+
+
